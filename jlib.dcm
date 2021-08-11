@@ -1,5 +1,54 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC1G17
+F https://www.diodes.com/assets/Datasheets/74LVC1G17.pdf
+$ENDCMP
+#
+$CMP AP1509
+F https://www.diodes.com/assets/Datasheets/AP1509.pdf
+$ENDCMP
+#
+$CMP AP1509-50SG-13
+F https://www.diodes.com/assets/Datasheets/AP1509.pdf
+$ENDCMP
+#
+$CMP BCR401UW6Q
+F https://www.diodes.com/assets/Datasheets/BCR401UW6Q.pdf
+$ENDCMP
+#
+$CMP INA219
+F https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1610805728883&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP IS25LP064A-JBLE
+F https://www.issi.com/WW/pdf/25LP064A.pdf
+$ENDCMP
+#
+$CMP LT6003
+F https://www.analog.com/media/en/technical-documentation/data-sheets/600345fd.pdf
+$ENDCMP
+#
+$CMP MCP2221A
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005565C.pdf
+$ENDCMP
+#
+$CMP NHD-C0216AZ-FN-GBW
+F https://www.newhavendisplay.com/specs/NHD-C0216AZ-FN-GBW.pdf
+$ENDCMP
+#
+$CMP RP2040
+F https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf
+$ENDCMP
+#
+$CMP TLV61220
+D Switching Regulator
+F http://www.ti.com/product/TLV61220
+$ENDCMP
+#
+$CMP TPS61023
+F https://www.ti.com/lit/ds/symlink/tps61023.pdf?ts=1608923383480&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS61023
+$ENDCMP
+#
 $CMP TPS613222ADBV
 D 5V Output Switching regulator
 K Switching regulator
